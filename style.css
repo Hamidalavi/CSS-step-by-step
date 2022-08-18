@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 50px;
+  color: transparent;
+  animation: color 10s linear 0s infinite alternate forwards;
+}
+
+@keyframes color {
+  0% {
+    -webkit-text-stroke: 2px green;
+  }
+
+  25% {
+    -webkit-text-stroke: 2px yellow;
+  }
+
+  50% {
+    -webkit-text-stroke: 2px orange;
+  }
+
+  75% {
+    -webkit-text-stroke: 2px orangered;
+  }
+
+  100% {
+    -webkit-text-stroke: 2px red;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
