@@ -8,6 +8,7 @@
 [![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Hamidalavi/CSS-step-by-step)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Hamidalavi/CSS-step-by-step)
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/Hamidalavi/CSS-step-by-step)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Hamidalavi/avascript-tips)
 
 ## Worked & Tested with:
 [![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -30,7 +31,7 @@
 ![Pass](https://shields.io/badge/build-passing-brightgreen)
 ![DeployPass](https://shields.io/badge/deployment-passing-brightgreen)
 ![DiscordOnline](https://img.shields.io/discord/852100868303749130)
-![License](https://img.shields.io/github/downloads/Hamidalavi/CSS-step-by-step/total)
+![TotalDownloads](https://img.shields.io/github/downloads/Hamidalavi/CSS-step-by-step/total)
 ![License](https://img.shields.io/badge/license-EXB-orange)
 
 ![Alt CSS](https://i.pinimg.com/originals/a9/95/32/a99532415cce5a5955cf243b2569362d.gif)
