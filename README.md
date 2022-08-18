@@ -1,5 +1,6 @@
 # CSS step by step with Examid
 
+## Donate our Team:
 [![built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)](https://reymit.ir/examid6540)
 [![Donate](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://reymit.ir/examid6540)
 
@@ -30,6 +31,7 @@
 ![DeployPass](https://shields.io/badge/deployment-passing-brightgreen)
 ![Coverage](https://shields.io/badge/coverage-96%25-green)
 ![DiscordOnline](https://img.shields.io/discord/852100868303749130)
+![License](https://img.shields.io/github/downloads/Hamidalavi/CSS-step-by-step/total)
 ![License](https://img.shields.io/badge/license-EXB-orange)
 
 ![Alt CSS](https://i.pinimg.com/originals/a9/95/32/a99532415cce5a5955cf243b2569362d.gif)
