@@ -24,5 +24,9 @@
 
 ## Stats:
 ![Size](https://img.shields.io/badge/size-267kB-blue)
+![TestPass](https://shields.io/badge/test-passing-brightgreen)
+![CheckPass](https://shields.io/badge/checks-passing-brightgreen)
+![Pass](https://shields.io/badge/build-passing-brightgreen)
+![DeployPass](https://shields.io/badge/deployment-passing-brightgreen)
 
 ![Alt CSS](https://i.pinimg.com/originals/a9/95/32/a99532415cce5a5955cf243b2569362d.gif)
