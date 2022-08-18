@@ -1,4 +1,4 @@
-# CSS-step-by-step
+# CSS step by step with Examid
 
 [![built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)](https://reymit.ir/examid6540)
 [![Donate](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://reymit.ir/examid6540)
@@ -22,5 +22,4 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/examid6540)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/examid6540)
 
-Examid's CSS &amp; SASS Tutorial, Let's being a Full Stack Developer
 [![Alt CSS](https://i.pinimg.com/originals/a9/95/32/a99532415cce5a5955cf243b2569362d.gif)](https://GitHub.com/Hamidalavi/)
