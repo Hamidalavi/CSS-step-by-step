@@ -25,4 +25,4 @@
 ## Stats:
 ![Size](https://img.shields.io/badge/size-267kB-blue)
 
-[![Alt CSS](https://i.pinimg.com/originals/a9/95/32/a99532415cce5a5955cf243b2569362d.gif)]
+![Alt CSS](https://i.pinimg.com/originals/a9/95/32/a99532415cce5a5955cf243b2569362d.gif)
