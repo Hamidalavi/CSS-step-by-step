@@ -34,4 +34,4 @@
 ![TotalDownloads](https://img.shields.io/github/downloads/Hamidalavi/CSS-step-by-step/total)
 ![License](https://img.shields.io/badge/license-EXB-orange)
 
-![CSS][https://i.pinimg.com/originals/a9/95/32/a99532415cce5a5955cf243b2569362d.gif]
+[![JavaScript](https://i.pinimg.com/originals/a9/95/32/a99532415cce5a5955cf243b2569362d.gif)](https://github.com/Hamidalavi/CSS-step-by-step)
