@@ -23,6 +23,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/examid6540)
 
 ## Stats:
-[![NPM Total Downloads](https://img.shields.io/npm/dt/snowflake-id.svg)](https://npmjs.com/snowflake-id)
+[![Size](https://img.shields.io/badge/size-267kB-blue)
 
 [![Alt CSS](https://i.pinimg.com/originals/a9/95/32/a99532415cce5a5955cf243b2569362d.gif)](https://GitHub.com/Hamidalavi/)
