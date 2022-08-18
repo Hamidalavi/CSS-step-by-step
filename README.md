@@ -29,7 +29,6 @@
 ![CheckPass](https://shields.io/badge/checks-passing-brightgreen)
 ![Pass](https://shields.io/badge/build-passing-brightgreen)
 ![DeployPass](https://shields.io/badge/deployment-passing-brightgreen)
-![Coverage](https://shields.io/badge/coverage-96%25-green)
 ![DiscordOnline](https://img.shields.io/discord/852100868303749130)
 ![License](https://img.shields.io/github/downloads/Hamidalavi/CSS-step-by-step/total)
 ![License](https://img.shields.io/badge/license-EXB-orange)
